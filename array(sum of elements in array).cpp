@@ -12,7 +12,7 @@ int main()
 	}
 	for(i=0;i<n;i++)
 	{
-		sum=sum +A[i];
+		mul =mul*A[i];
 	}
 	printf(" sum of elements in array :%d",sum);
 }
